@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632986604 source:d:\szintia xib\lab7_matrix\main.cpp
+	<iostream>
+	<fstream>
+

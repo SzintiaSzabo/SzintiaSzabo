@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615307119 source:c:\filebol valo iras es olvasas\main.cpp
+	<iostream>
+	<fstream>
+

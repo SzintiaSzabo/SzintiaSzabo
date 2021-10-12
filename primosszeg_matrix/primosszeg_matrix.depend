@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634023703 source:d:\szintia xib\primosszeg_matrix\main.cpp
+	<iostream>
+	<fstream>
+

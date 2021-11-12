@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636725433 source:c:\hazi_3\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+

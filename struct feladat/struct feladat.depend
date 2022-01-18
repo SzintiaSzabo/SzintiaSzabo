@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642490737 source:d:\szintia xib\struct feladat\main.cpp
+	<iostream>
+	<fstream>
+

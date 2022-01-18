@@ -1,0 +1,7 @@
+6
+1 Elemer XIB 9
+2 Gyozo XIB 4
+3 Bela XIB 10
+4 Pista XIH 5
+5 Eva XIH 9
+6 Piroska XIH 8

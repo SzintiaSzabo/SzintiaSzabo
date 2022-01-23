@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642940960 source:c:\struct_laborfeladat16\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+

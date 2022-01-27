@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643268105 source:d:\szintia xib\sierpinski haromszog\main.cpp
+	<graphics.h>
+	<math.h>
+	<stdlib.h>
+	<iostream>
+

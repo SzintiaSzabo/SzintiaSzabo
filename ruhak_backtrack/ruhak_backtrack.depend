@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645513949 source:d:\szintia xib\ruhak_backtrack\main.cpp
+	<iostream>
+	<vector>
+

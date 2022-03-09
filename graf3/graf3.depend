@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646846352 source:c:\graf3\main.cpp
+	<iostream>
+	<fstream>
+

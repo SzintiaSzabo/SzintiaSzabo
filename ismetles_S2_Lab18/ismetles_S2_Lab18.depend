@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649308534 source:c:\szintia xib\ismetles_s2_lab18\main.cpp
+	<iostream>
+	<fstream>
+

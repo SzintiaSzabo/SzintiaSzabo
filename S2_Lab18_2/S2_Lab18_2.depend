@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649310005 source:c:\szintia xib\s2_lab18_2\main.cpp
+	<iostream>
+	<fstream>
+

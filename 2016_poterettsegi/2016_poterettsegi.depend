@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652772635 source:c:\szintia xib\2016_poterettsegi\main.cpp
+	<iostream>
+	<fstream>
+
